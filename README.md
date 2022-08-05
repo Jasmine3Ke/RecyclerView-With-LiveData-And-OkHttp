@@ -11,7 +11,7 @@ An Android project to indicate the price change of cryptocurrency.
 * Using the **RecyclerView** widget.
 * Implementation of **LinearLayoutManager** for vertical scrolling.
 * **Custom adapter** for RecyclerView.
-* **ProgressBar** while loading page and reset the data.
+* **ProgressBar** while loading page and fetching the api data.
 
 ## Quick Setup (Basic Usage)
 ### 1. Using Gradle (build.gradle):
